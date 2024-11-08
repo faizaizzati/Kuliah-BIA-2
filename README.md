@@ -7,7 +7,6 @@ print("The first matrix is:")
 print(matrix1)
 print("The second matrix is:")
 print(matrix2)# Kuliah-BIA-2
-Repositori ini terdiri dari beberapa algoritma deep learning untuk prediksi
 
 # Add the matrices
 result1 <- matrix1 + matrix2
@@ -20,3 +19,13 @@ result3 <- matrix1 + matrix2
 
 # Divide the matrices
 result4 <- matrix1 + matrix2
+
+# Print results
+print("The result of Addition of is:")
+print(result1)
+print("The result of Subtraction of is:")
+print(result2)
+print("The result of Multiplication of is:")
+print(result3)
+print("The result of Division of is:")
+print(result4)

@@ -8,3 +8,15 @@ print(matrix1)
 print("The second matrix is:")
 print(matrix2)# Kuliah-BIA-2
 Repositori ini terdiri dari beberapa algoritma deep learning untuk prediksi
+
+# Add the matrices
+result1 <- matrix1 + matrix2
+
+# Substract the matrices
+result2 <- matrix1 + matrix2
+
+# Multiply the matrices
+result3 <- matrix1 + matrix2
+
+# Divide the matrices
+result4 <- matrix1 + matrix2
